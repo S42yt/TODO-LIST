@@ -1,6 +1,9 @@
 # TODO LIST
 Willkommen bei **TODO-LIST** — einer einfachen, Konsolen basierten Todo List!
 
+# NOTIZ
+**DIESES PROJEKT IST SO KAPUTT ES FUNKTONIERT NICHT MEHR FIX IRGENDWANN**
+
 # WICHTIG:
 **Ihr könnt das Projekt selber bauen oder per Release downloaden**
 **PROJEKT FUNKTONIERT IM MOMENT NICHT ARBEITE GERADE DRAN**
